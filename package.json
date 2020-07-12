@@ -1,7 +1,7 @@
 {
   "name": "@nerdo/jest-extended",
   "description": "nerdo's custom jest matchers",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "author": "Dannel Albert <cuebix@gmail.com>",
   "license": "MIT",
   "repository": {
